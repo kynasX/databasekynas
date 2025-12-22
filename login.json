@@ -18,5 +18,10 @@
     "username": "austin",
     "password": "kyna123",
     "role": "owner"
+  },
+  {
+    "username": "gnzxx",
+    "password": "gnzxxbotz",
+    "role": "admin"
   }
 ]
